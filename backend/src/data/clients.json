@@ -1,0 +1,1642 @@
+[
+  {
+    "id": "client_m01",
+    "firstName": "Arjun",
+    "lastName": "Yadav",
+    "gender": "male",
+    "dateOfBirth": "1986-02-07",
+    "email": "arjun.yadav@yahoo.com",
+    "phone": "+919093830063",
+    "maritalStatus": "never_married",
+    "currentCity": "Chandigarh",
+    "currentCountry": "UAE",
+    "hometown": "Dehradun",
+    "isNRI": true,
+    "visaStatus": "Citizen",
+    "openToRelocate": "yes",
+    "heightCm": 186,
+    "undergradCollege": "Delhi University",
+    "highestDegree": "B.Tech",
+    "currentCompany": "Ministry of Finance",
+    "designation": "Deputy Secretary",
+    "professionCategory": "govt",
+    "annualIncomeLPA": 21,
+    "siblings": 1,
+    "familyType": "nuclear",
+    "religion": "Hindu",
+    "motherTongue": "Bengali",
+    "languagesKnown": [
+      "English",
+      "Bengali",
+      "Hindi"
+    ],
+    "gotra": "Kashyap",
+    "wantKids": "yes",
+    "openToPets": false,
+    "diet": "veg",
+    "drinking": "socially",
+    "smoking": "never",
+    "personalityTags": [
+      "ambitious",
+      "social",
+      "family-oriented",
+      "intellectual"
+    ],
+    "partnerAgeMin": 34,
+    "partnerAgeMax": 43,
+    "clientType": "partner_search",
+    "journeyStage": "active_search",
+    "status": "Active",
+    "notes": [
+      {
+        "text": "Parents met matchmaker. Open to inter-caste but same religion preferred.",
+        "timestamp": "2026-05-10T17:06:35.979Z"
+      },
+      {
+        "text": "Mentioned family is involved in decision. Parents want same religion and caste match.",
+        "timestamp": "2026-05-13T17:06:35.979Z"
+      },
+      {
+        "text": "Candidate family has concerns about relocation. Client is open to moving.",
+        "timestamp": "2026-06-02T17:06:35.979Z"
+      }
+    ],
+    "matchesSent": []
+  },
+  {
+    "id": "client_m06",
+    "firstName": "Karan",
+    "lastName": "Yadav",
+    "gender": "male",
+    "dateOfBirth": "1988-10-26",
+    "email": "karan.yadav@yahoo.com",
+    "phone": "+917375215369",
+    "maritalStatus": "never_married",
+    "currentCity": "Pune",
+    "currentCountry": "India",
+    "hometown": "Ajmer",
+    "isNRI": false,
+    "openToRelocate": "maybe",
+    "heightCm": 181,
+    "bloodGroup": "AB+",
+    "undergradCollege": "IIT Kanpur",
+    "highestDegree": "B.E.",
+    "currentCompany": "UPSC",
+    "designation": "Section Officer",
+    "professionCategory": "govt",
+    "annualIncomeLPA": 21,
+    "siblings": 0,
+    "familyType": "joint",
+    "fatherOccupation": "Army Officer",
+    "religion": "Christian",
+    "motherTongue": "Gujarati",
+    "languagesKnown": [
+      "English",
+      "Gujarati",
+      "Hindi"
+    ],
+    "wantKids": "yes",
+    "openToPets": false,
+    "diet": "veg",
+    "drinking": "socially",
+    "smoking": "never",
+    "personalityTags": [
+      "modern",
+      "traditional",
+      "adventurous",
+      "ambitious",
+      "social"
+    ],
+    "partnerAgeMin": 32,
+    "partnerAgeMax": 41,
+    "clientType": "partner_search",
+    "journeyStage": "active_search",
+    "status": "Active",
+    "notes": [
+      {
+        "text": "Candidate family has concerns about relocation. Client is open to moving.",
+        "timestamp": "2026-06-02T17:06:35.986Z"
+      },
+      {
+        "text": "this is nice guy",
+        "timestamp": "2026-06-08T04:58:17.592Z"
+      }
+    ],
+    "matchesSent": []
+  },
+  {
+    "id": "client_m09",
+    "firstName": "Dhruv",
+    "lastName": "Pillai",
+    "gender": "male",
+    "dateOfBirth": "1988-01-09",
+    "email": "dhruv.pillai@outlook.com",
+    "phone": "+917321630665",
+    "maritalStatus": "never_married",
+    "currentCity": "Pune",
+    "currentCountry": "India",
+    "hometown": "Dehradun",
+    "isNRI": false,
+    "openToRelocate": "maybe",
+    "heightCm": 182,
+    "bloodGroup": "AB+",
+    "undergradCollege": "VIT Vellore",
+    "highestDegree": "M.Sc",
+    "currentCompany": "UPSC",
+    "designation": "Scientist C",
+    "professionCategory": "govt",
+    "annualIncomeLPA": 27,
+    "siblings": 2,
+    "familyType": "nuclear",
+    "fatherOccupation": "Professor",
+    "motherOccupation": "Professor",
+    "religion": "Christian",
+    "caste": "Protestant",
+    "motherTongue": "Malayalam",
+    "languagesKnown": [
+      "English",
+      "Malayalam",
+      "Hindi"
+    ],
+    "wantKids": "maybe",
+    "openToPets": true,
+    "diet": "non-veg",
+    "drinking": "never",
+    "smoking": "never",
+    "personalityTags": [
+      "modern",
+      "career-focused",
+      "ambitious",
+      "family-oriented"
+    ],
+    "partnerAgeMin": 32,
+    "partnerAgeMax": 41,
+    "clientType": "partner_search",
+    "journeyStage": "active_search",
+    "status": "Active",
+    "notes": [
+      {
+        "text": "Follow-up call — updated income details. Very family-oriented, wants to settle within 1 year.",
+        "timestamp": "2026-04-23T17:06:35.986Z"
+      },
+      {
+        "text": "Client stressed on education compatibility. Prefers someone with MBA or professional degree.",
+        "timestamp": "2026-05-08T17:06:35.986Z"
+      }
+    ],
+    "matchesSent": []
+  },
+  {
+    "id": "client_m12",
+    "firstName": "Abhishek",
+    "lastName": "Kapoor",
+    "gender": "male",
+    "dateOfBirth": "1998-12-04",
+    "email": "abhishek.kapoor@gmail.com",
+    "phone": "+918923928000",
+    "maritalStatus": "divorced",
+    "currentCity": "Kochi",
+    "currentCountry": "India",
+    "hometown": "Kanpur",
+    "isNRI": false,
+    "openToRelocate": "yes",
+    "heightCm": 184,
+    "undergradCollege": "BITS Pilani",
+    "highestDegree": "MBA",
+    "currentCompany": "Tata Group",
+    "designation": "Regional Manager",
+    "professionCategory": "business",
+    "annualIncomeLPA": 44,
+    "siblings": 2,
+    "familyType": "nuclear",
+    "fatherOccupation": "Engineer",
+    "religion": "Hindu",
+    "caste": "Vokkaliga",
+    "motherTongue": "Marathi",
+    "languagesKnown": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "gotra": "Atri",
+    "wantKids": "yes",
+    "openToPets": false,
+    "diet": "non-veg",
+    "drinking": "socially",
+    "smoking": "never",
+    "personalityTags": [
+      "open-minded",
+      "social",
+      "grounded",
+      "travel-lover",
+      "career-focused"
+    ],
+    "partnerAgeMin": 22,
+    "partnerAgeMax": 31,
+    "clientType": "partner_search",
+    "journeyStage": "intro_sent",
+    "status": "Paused",
+    "notes": [
+      {
+        "text": "Initial call done. Client is serious and ready for matches. Prefers someone from same city or willing to relocate.",
+        "timestamp": "2026-04-08T17:06:35.986Z"
+      }
+    ],
+    "matchesSent": [
+      {
+        "candidateId": "pool_f020",
+        "sentDate": "2026-06-08T06:03:34.877Z",
+        "outcome": "pending"
+      }
+    ]
+  },
+  {
+    "id": "client_f01",
+    "firstName": "Priya",
+    "lastName": "Singh",
+    "gender": "female",
+    "dateOfBirth": "1995-01-24",
+    "email": "priya.singh@gmail.com",
+    "phone": "+918174687707",
+    "maritalStatus": "never_married",
+    "currentCity": "Noida",
+    "currentCountry": "Australia",
+    "hometown": "Vijayawada",
+    "isNRI": true,
+    "visaStatus": "Work Visa",
+    "openToRelocate": "yes",
+    "heightCm": 159,
+    "undergradCollege": "Manipal Institute of Technology",
+    "highestDegree": "CA",
+    "currentCompany": "Max Healthcare",
+    "designation": "Medical Officer",
+    "professionCategory": "medicine",
+    "annualIncomeLPA": 18,
+    "siblings": 0,
+    "familyType": "nuclear",
+    "fatherOccupation": "Professor",
+    "religion": "Hindu",
+    "motherTongue": "Telugu",
+    "languagesKnown": [
+      "English",
+      "Telugu"
+    ],
+    "manglikStatus": "unknown",
+    "nakshatra": "Punarvasu",
+    "wantKids": "yes",
+    "openToPets": true,
+    "diet": "non-veg",
+    "drinking": "socially",
+    "smoking": "never",
+    "personalityTags": [
+      "spiritual",
+      "grounded",
+      "organized",
+      "introverted",
+      "family-oriented"
+    ],
+    "partnerAgeMin": 29,
+    "partnerAgeMax": 40,
+    "clientType": "partner_search",
+    "journeyStage": "active_search",
+    "status": "Active",
+    "notes": [
+      {
+        "text": "Client stressed on education compatibility. Prefers someone with MBA or professional degree.",
+        "timestamp": "2026-05-08T17:06:35.986Z"
+      },
+      {
+        "text": "Client called — interested in Delhi-based matches only now. Updated preference.",
+        "timestamp": "2026-05-18T17:06:35.986Z"
+      },
+      {
+        "text": "Client paused search temporarily — work pressure. Will resume next month.",
+        "timestamp": "2026-06-04T17:06:35.986Z"
+      }
+    ],
+    "matchesSent": []
+  },
+  {
+    "id": "client_f04",
+    "firstName": "Neha",
+    "lastName": "Pillai",
+    "gender": "female",
+    "dateOfBirth": "1997-08-23",
+    "email": "neha.pillai@gmail.com",
+    "phone": "+919035727382",
+    "maritalStatus": "never_married",
+    "currentCity": "Gurugram",
+    "currentCountry": "Australia",
+    "isNRI": true,
+    "visaStatus": "PR",
+    "openToRelocate": "yes",
+    "heightCm": 168,
+    "undergradCollege": "XLRI Jamshedpur",
+    "highestDegree": "M.Tech",
+    "currentCompany": "Ogilvy",
+    "designation": "Senior Designer",
+    "professionCategory": "creative",
+    "annualIncomeLPA": 19,
+    "siblings": 1,
+    "familyType": "nuclear",
+    "fatherOccupation": "Engineer",
+    "motherOccupation": "Teacher",
+    "religion": "Hindu",
+    "caste": "Jat",
+    "motherTongue": "Odia",
+    "languagesKnown": [
+      "English",
+      "Odia",
+      "Hindi"
+    ],
+    "wantKids": "yes",
+    "openToPets": true,
+    "diet": "non-veg",
+    "drinking": "never",
+    "smoking": "never",
+    "personalityTags": [
+      "intellectual",
+      "creative",
+      "empathetic"
+    ],
+    "partnerAgeMin": 27,
+    "partnerAgeMax": 38,
+    "clientType": "partner_search",
+    "journeyStage": "active_search",
+    "status": "Active",
+    "notes": [
+      {
+        "text": "Strong preference for non-veg partner. Dealbreaker if strictly vegetarian.",
+        "timestamp": "2026-05-03T17:06:35.986Z"
+      },
+      {
+        "text": "Mentioned family is involved in decision. Parents want same religion and caste match.",
+        "timestamp": "2026-05-13T17:06:35.986Z"
+      }
+    ],
+    "matchesSent": []
+  },
+  {
+    "id": "client_f08",
+    "firstName": "Kavya",
+    "lastName": "Mehta",
+    "gender": "female",
+    "dateOfBirth": "1999-08-15",
+    "email": "kavya.mehta@yahoo.com",
+    "phone": "+918291606352",
+    "maritalStatus": "never_married",
+    "currentCity": "Bangalore",
+    "currentCountry": "India",
+    "hometown": "Agra",
+    "isNRI": false,
+    "openToRelocate": "yes",
+    "heightCm": 166,
+    "bloodGroup": "AB+",
+    "undergradCollege": "VIT Vellore",
+    "highestDegree": "LLB",
+    "currentCompany": "Infosys",
+    "designation": "Senior Software Engineer",
+    "professionCategory": "tech",
+    "annualIncomeLPA": 73,
+    "siblings": 2,
+    "familyType": "joint",
+    "fatherOccupation": "Engineer",
+    "motherOccupation": "Nurse",
+    "religion": "Muslim",
+    "caste": "Ansari",
+    "motherTongue": "Tamil",
+    "languagesKnown": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "wantKids": "maybe",
+    "openToPets": true,
+    "diet": "veg",
+    "drinking": "socially",
+    "smoking": "never",
+    "personalityTags": [
+      "traditional",
+      "family-oriented",
+      "adventurous",
+      "career-focused",
+      "fitness-enthusiast"
+    ],
+    "partnerAgeMin": 25,
+    "partnerAgeMax": 36,
+    "clientType": "partner_search",
+    "journeyStage": "active_search",
+    "status": "Active",
+    "notes": [
+      {
+        "text": "Strong preference for non-veg partner. Dealbreaker if strictly vegetarian.",
+        "timestamp": "2026-05-03T17:06:35.986Z"
+      },
+      {
+        "text": "Client paused search temporarily — work pressure. Will resume next month.",
+        "timestamp": "2026-06-04T17:06:35.986Z"
+      }
+    ],
+    "matchesSent": []
+  },
+  {
+    "id": "client_f10",
+    "firstName": "Tanvi",
+    "lastName": "Verma",
+    "gender": "female",
+    "dateOfBirth": "1995-02-02",
+    "email": "tanvi.verma@outlook.com",
+    "phone": "+918973974135",
+    "maritalStatus": "never_married",
+    "currentCity": "Chandigarh",
+    "currentCountry": "India",
+    "hometown": "Agra",
+    "isNRI": false,
+    "openToRelocate": "yes",
+    "heightCm": 163,
+    "bloodGroup": "A+",
+    "undergradCollege": "Symbiosis Institute",
+    "highestDegree": "MBBS",
+    "currentCompany": "Bajaj Finance",
+    "designation": "Investment Banker",
+    "professionCategory": "finance",
+    "annualIncomeLPA": 30,
+    "siblings": 2,
+    "familyType": "nuclear",
+    "fatherOccupation": "Teacher",
+    "motherOccupation": "Doctor",
+    "religion": "Hindu",
+    "caste": "Iyengar",
+    "motherTongue": "Marathi",
+    "languagesKnown": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "gotra": "Gautam",
+    "manglikStatus": "non-manglik",
+    "nakshatra": "Pushya",
+    "wantKids": "yes",
+    "openToPets": true,
+    "diet": "eggetarian",
+    "drinking": "socially",
+    "smoking": "never",
+    "personalityTags": [
+      "ambitious",
+      "intellectual",
+      "career-focused"
+    ],
+    "partnerAgeMin": 29,
+    "partnerAgeMax": 40,
+    "clientType": "partner_search",
+    "journeyStage": "active_search",
+    "status": "Active",
+    "notes": [
+      {
+        "text": "Initial call done. Client is serious and ready for matches. Prefers someone from same city or willing to relocate.",
+        "timestamp": "2026-04-08T17:06:35.986Z"
+      }
+    ],
+    "matchesSent": []
+  },
+  {
+    "id": "client_f11",
+    "firstName": "Shreya",
+    "lastName": "Sharma",
+    "gender": "female",
+    "dateOfBirth": "1997-04-04",
+    "email": "shreya.sharma@yahoo.com",
+    "phone": "+917130138476",
+    "maritalStatus": "never_married",
+    "currentCity": "Chennai",
+    "currentCountry": "India",
+    "isNRI": false,
+    "openToRelocate": "yes",
+    "heightCm": 163,
+    "bloodGroup": "B+",
+    "undergradCollege": "BITS Pilani",
+    "highestDegree": "M.Sc",
+    "currentCompany": "Amazon",
+    "designation": "Principal Engineer",
+    "professionCategory": "tech",
+    "annualIncomeLPA": 42,
+    "siblings": 1,
+    "familyType": "nuclear",
+    "fatherOccupation": "CA",
+    "motherOccupation": "Government Employee",
+    "religion": "Hindu",
+    "caste": "Lingayat",
+    "motherTongue": "Malayalam",
+    "languagesKnown": [
+      "English",
+      "Malayalam",
+      "Hindi"
+    ],
+    "wantKids": "yes",
+    "openToPets": true,
+    "diet": "veg",
+    "drinking": "never",
+    "smoking": "never",
+    "personalityTags": [
+      "fitness-enthusiast",
+      "adventurous",
+      "grounded",
+      "open-minded"
+    ],
+    "partnerAgeMin": 27,
+    "partnerAgeMax": 38,
+    "clientType": "tdc_member",
+    "journeyStage": "active_search",
+    "status": "Active",
+    "notes": [
+      {
+        "text": "Follow-up call — updated income details. Very family-oriented, wants to settle within 1 year.",
+        "timestamp": "2026-04-23T17:06:35.986Z"
+      },
+      {
+        "text": "Mentioned family is involved in decision. Parents want same religion and caste match.",
+        "timestamp": "2026-05-13T17:06:35.986Z"
+      }
+    ],
+    "matchesSent": []
+  },
+  {
+    "id": "client_m02",
+    "firstName": "Rohan",
+    "lastName": "Tripathi",
+    "gender": "male",
+    "dateOfBirth": "1986-09-18",
+    "email": "rohan.tripathi@yahoo.com",
+    "phone": "+917442068859",
+    "maritalStatus": "never_married",
+    "currentCity": "Chennai",
+    "currentCountry": "India",
+    "hometown": "Aurangabad",
+    "isNRI": false,
+    "openToRelocate": "yes",
+    "heightCm": 184,
+    "bloodGroup": "AB+",
+    "undergradCollege": "Delhi University",
+    "highestDegree": "B.E.",
+    "currentCompany": "Unacademy",
+    "designation": "Policy Analyst",
+    "professionCategory": "other",
+    "annualIncomeLPA": 8,
+    "siblings": 1,
+    "familyType": "joint",
+    "fatherOccupation": "Professor",
+    "motherOccupation": "Homemaker",
+    "religion": "Jain",
+    "caste": "Porwal",
+    "motherTongue": "Tamil",
+    "languagesKnown": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "wantKids": "maybe",
+    "openToPets": false,
+    "diet": "eggetarian",
+    "drinking": "socially",
+    "smoking": "never",
+    "personalityTags": [
+      "ambitious",
+      "organized",
+      "creative",
+      "open-minded",
+      "fitness-enthusiast"
+    ],
+    "partnerAgeMin": 34,
+    "partnerAgeMax": 43,
+    "clientType": "partner_search",
+    "journeyStage": "date_scheduled",
+    "status": "Match Sent",
+    "notes": [
+      {
+        "text": "Follow-up call — updated income details. Very family-oriented, wants to settle within 1 year.",
+        "timestamp": "2026-04-23T17:06:35.985Z"
+      },
+      {
+        "text": "Client stressed on education compatibility. Prefers someone with MBA or professional degree.",
+        "timestamp": "2026-05-08T17:06:35.985Z"
+      }
+    ],
+    "matchesSent": [
+      {
+        "candidateId": "pool_f001",
+        "sentDate": "2026-05-30T17:06:35.985Z",
+        "outcome": "no_response"
+      },
+      {
+        "candidateId": "pool_m026",
+        "sentDate": "2026-05-31T17:06:35.985Z",
+        "outcome": "pending"
+      }
+    ]
+  },
+  {
+    "id": "client_m03",
+    "firstName": "Vikram",
+    "lastName": "Mehta",
+    "gender": "male",
+    "dateOfBirth": "1997-08-21",
+    "email": "vikram.mehta@outlook.com",
+    "phone": "+919791830563",
+    "maritalStatus": "never_married",
+    "currentCity": "Chennai",
+    "currentCountry": "India",
+    "hometown": "Vijayawada",
+    "isNRI": false,
+    "openToRelocate": "yes",
+    "heightCm": 175,
+    "undergradCollege": "Jadavpur University",
+    "highestDegree": "MBA",
+    "currentCompany": "DRDO",
+    "designation": "IAS Officer",
+    "professionCategory": "govt",
+    "annualIncomeLPA": 28,
+    "siblings": 0,
+    "familyType": "nuclear",
+    "fatherOccupation": "Business Owner",
+    "motherOccupation": "Principal",
+    "religion": "Hindu",
+    "caste": "Reddy",
+    "motherTongue": "Tamil",
+    "languagesKnown": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "wantKids": "yes",
+    "openToPets": true,
+    "diet": "non-veg",
+    "drinking": "regularly",
+    "smoking": "occasionally",
+    "personalityTags": [
+      "empathetic",
+      "modern",
+      "open-minded"
+    ],
+    "partnerAgeMin": 23,
+    "partnerAgeMax": 32,
+    "clientType": "partner_search",
+    "journeyStage": "onboarding",
+    "status": "Active",
+    "notes": [],
+    "matchesSent": []
+  },
+  {
+    "id": "client_m11",
+    "firstName": "Gaurav",
+    "lastName": "Mishra",
+    "gender": "male",
+    "dateOfBirth": "1991-05-12",
+    "email": "gaurav.mishra@outlook.com",
+    "phone": "+918648955760",
+    "maritalStatus": "never_married",
+    "currentCity": "Ahmedabad",
+    "currentCountry": "India",
+    "hometown": "Aurangabad",
+    "isNRI": false,
+    "openToRelocate": "maybe",
+    "heightCm": 186,
+    "bloodGroup": "O-",
+    "undergradCollege": "IIT Delhi",
+    "highestDegree": "B.Tech",
+    "currentCompany": "KPMG",
+    "designation": "Vice President",
+    "professionCategory": "finance",
+    "annualIncomeLPA": 62,
+    "siblings": 1,
+    "familyType": "joint",
+    "fatherOccupation": "Business Owner",
+    "motherOccupation": "Government Employee",
+    "religion": "Hindu",
+    "motherTongue": "Punjabi",
+    "languagesKnown": [
+      "English",
+      "Punjabi",
+      "Hindi",
+      "Marathi"
+    ],
+    "wantKids": "maybe",
+    "openToPets": false,
+    "diet": "non-veg",
+    "drinking": "socially",
+    "smoking": "never",
+    "personalityTags": [
+      "career-focused",
+      "grounded",
+      "spiritual",
+      "family-oriented",
+      "traditional"
+    ],
+    "partnerAgeMin": 29,
+    "partnerAgeMax": 38,
+    "clientType": "partner_search",
+    "journeyStage": "onboarding",
+    "status": "New",
+    "notes": [],
+    "matchesSent": []
+  },
+  {
+    "id": "client_f03",
+    "firstName": "Sneha",
+    "lastName": "Yadav",
+    "gender": "female",
+    "dateOfBirth": "1999-05-27",
+    "email": "sneha.yadav@gmail.com",
+    "phone": "+917176067770",
+    "maritalStatus": "never_married",
+    "currentCity": "Mumbai",
+    "currentCountry": "India",
+    "hometown": "Udaipur",
+    "isNRI": false,
+    "openToRelocate": "maybe",
+    "heightCm": 156,
+    "undergradCollege": "FMS Delhi",
+    "highestDegree": "MBA",
+    "currentCompany": "JSA",
+    "designation": "Senior Associate",
+    "professionCategory": "law",
+    "annualIncomeLPA": 70,
+    "siblings": 1,
+    "familyType": "joint",
+    "fatherOccupation": "Teacher",
+    "motherOccupation": "Nurse",
+    "religion": "Sikh",
+    "motherTongue": "Punjabi",
+    "languagesKnown": [
+      "English",
+      "Punjabi"
+    ],
+    "wantKids": "maybe",
+    "openToPets": false,
+    "diet": "veg",
+    "drinking": "regularly",
+    "smoking": "occasionally",
+    "personalityTags": [
+      "introverted",
+      "reader",
+      "family-oriented",
+      "fitness-enthusiast",
+      "travel-lover"
+    ],
+    "partnerAgeMin": 25,
+    "partnerAgeMax": 36,
+    "clientType": "partner_search",
+    "journeyStage": "profiling",
+    "status": "New",
+    "notes": [],
+    "matchesSent": []
+  },
+  {
+    "id": "client_f06",
+    "firstName": "Pooja",
+    "lastName": "Yadav",
+    "gender": "female",
+    "dateOfBirth": "1992-01-15",
+    "email": "pooja.yadav@yahoo.com",
+    "phone": "+917975375705",
+    "maritalStatus": "divorced",
+    "currentCity": "Gurugram",
+    "currentCountry": "India",
+    "isNRI": false,
+    "openToRelocate": "maybe",
+    "heightCm": 153,
+    "undergradCollege": "BITS Pilani",
+    "highestDegree": "B.Tech",
+    "currentCompany": "RBI",
+    "designation": "Deputy Director",
+    "professionCategory": "govt",
+    "annualIncomeLPA": 24,
+    "siblings": 1,
+    "familyType": "nuclear",
+    "fatherOccupation": "Teacher",
+    "motherOccupation": "Teacher",
+    "religion": "Muslim",
+    "caste": "Qureshi",
+    "motherTongue": "Punjabi",
+    "languagesKnown": [
+      "English",
+      "Punjabi"
+    ],
+    "wantKids": "yes",
+    "openToPets": false,
+    "diet": "eggetarian",
+    "drinking": "socially",
+    "smoking": "never",
+    "personalityTags": [
+      "creative",
+      "introverted",
+      "empathetic"
+    ],
+    "partnerAgeMin": 32,
+    "partnerAgeMax": 43,
+    "clientType": "partner_search",
+    "journeyStage": "profiling",
+    "status": "New",
+    "notes": [],
+    "matchesSent": []
+  },
+  {
+    "id": "client_f07",
+    "firstName": "Aditi",
+    "lastName": "Singh",
+    "gender": "female",
+    "dateOfBirth": "2001-10-23",
+    "email": "aditi.singh@yahoo.com",
+    "phone": "+918258483616",
+    "maritalStatus": "never_married",
+    "currentCity": "Gurugram",
+    "currentCountry": "India",
+    "hometown": "Gorakhpur",
+    "isNRI": false,
+    "openToRelocate": "no",
+    "heightCm": 163,
+    "bloodGroup": "A-",
+    "undergradCollege": "VIT Vellore",
+    "highestDegree": "LLB",
+    "currentCompany": "DRDO",
+    "designation": "Deputy Director",
+    "professionCategory": "govt",
+    "annualIncomeLPA": 27,
+    "siblings": 2,
+    "familyType": "nuclear",
+    "fatherOccupation": "Retired Government Officer",
+    "motherOccupation": "Homemaker",
+    "religion": "Hindu",
+    "caste": "Brahmin",
+    "motherTongue": "Marathi",
+    "languagesKnown": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "gotra": "Garg",
+    "nakshatra": "Rohini",
+    "wantKids": "maybe",
+    "openToPets": false,
+    "diet": "non-veg",
+    "drinking": "socially",
+    "smoking": "occasionally",
+    "personalityTags": [
+      "intellectual",
+      "traditional",
+      "open-minded"
+    ],
+    "partnerAgeMin": 23,
+    "partnerAgeMax": 34,
+    "clientType": "partner_search",
+    "journeyStage": "profiling",
+    "status": "New",
+    "notes": [],
+    "matchesSent": []
+  },
+  {
+    "id": "client_m04",
+    "firstName": "Aditya",
+    "lastName": "Shah",
+    "gender": "male",
+    "dateOfBirth": "1987-09-22",
+    "email": "aditya.shah@yahoo.com",
+    "phone": "+917586660552",
+    "maritalStatus": "never_married",
+    "currentCity": "Noida",
+    "currentCountry": "India",
+    "hometown": "Allahabad",
+    "isNRI": false,
+    "openToRelocate": "yes",
+    "heightCm": 183,
+    "undergradCollege": "Jadavpur University",
+    "highestDegree": "MBBS",
+    "currentCompany": "HDFC Bank",
+    "designation": "Chartered Accountant",
+    "professionCategory": "finance",
+    "annualIncomeLPA": 44,
+    "siblings": 1,
+    "familyType": "nuclear",
+    "fatherOccupation": "Army Officer",
+    "motherOccupation": "Nurse",
+    "religion": "Hindu",
+    "motherTongue": "Odia",
+    "languagesKnown": [
+      "English",
+      "Odia",
+      "Hindi"
+    ],
+    "manglikStatus": "manglik",
+    "wantKids": "yes",
+    "openToPets": false,
+    "diet": "non-veg",
+    "drinking": "socially",
+    "smoking": "never",
+    "personalityTags": [
+      "introverted",
+      "spiritual",
+      "reader",
+      "organized"
+    ],
+    "partnerAgeMin": 33,
+    "partnerAgeMax": 42,
+    "clientType": "partner_search",
+    "journeyStage": "post_date",
+    "status": "Matched",
+    "notes": [
+      {
+        "text": "Intro sent to a candidate. Client liked the profile. Waiting for response.",
+        "timestamp": "2026-05-23T17:06:35.985Z"
+      },
+      {
+        "text": "Client paused search temporarily — work pressure. Will resume next month.",
+        "timestamp": "2026-06-04T17:06:35.985Z"
+      }
+    ],
+    "matchesSent": [
+      {
+        "candidateId": "pool_f005",
+        "sentDate": "2026-05-29T17:06:35.985Z",
+        "outcome": "no_response"
+      },
+      {
+        "candidateId": "pool_m036",
+        "sentDate": "2026-05-28T17:06:35.985Z",
+        "outcome": "accepted"
+      },
+      {
+        "candidateId": "pool_f021",
+        "sentDate": "2026-05-25T17:06:35.985Z",
+        "outcome": "no_response"
+      }
+    ]
+  },
+  {
+    "id": "client_m10",
+    "firstName": "Varun",
+    "lastName": "Mishra",
+    "gender": "male",
+    "dateOfBirth": "1994-01-20",
+    "email": "varun.mishra@gmail.com",
+    "phone": "+918928487031",
+    "maritalStatus": "never_married",
+    "currentCity": "Delhi",
+    "currentCountry": "Australia",
+    "hometown": "Amritsar",
+    "isNRI": true,
+    "visaStatus": "Work Visa",
+    "openToRelocate": "yes",
+    "heightCm": 176,
+    "undergradCollege": "IIT Madras",
+    "highestDegree": "B.Tech",
+    "currentCompany": "Tata Group",
+    "designation": "Regional Manager",
+    "professionCategory": "business",
+    "annualIncomeLPA": 61,
+    "siblings": 1,
+    "familyType": "joint",
+    "motherOccupation": "Teacher",
+    "religion": "Hindu",
+    "caste": "Rajput",
+    "motherTongue": "Odia",
+    "languagesKnown": [
+      "English",
+      "Odia"
+    ],
+    "wantKids": "yes",
+    "openToPets": false,
+    "diet": "veg",
+    "drinking": "never",
+    "smoking": "never",
+    "personalityTags": [
+      "social",
+      "introverted",
+      "traditional"
+    ],
+    "partnerAgeMin": 26,
+    "partnerAgeMax": 35,
+    "clientType": "partner_search",
+    "journeyStage": "post_date",
+    "status": "Matched",
+    "notes": [
+      {
+        "text": "Initial call done. Client is serious and ready for matches. Prefers someone from same city or willing to relocate.",
+        "timestamp": "2026-04-08T17:06:35.986Z"
+      },
+      {
+        "text": "Parents met matchmaker. Open to inter-caste but same religion preferred.",
+        "timestamp": "2026-05-10T17:06:35.986Z"
+      },
+      {
+        "text": "Mentioned family is involved in decision. Parents want same religion and caste match.",
+        "timestamp": "2026-05-13T17:06:35.986Z"
+      },
+      {
+        "text": "Client called — interested in Delhi-based matches only now. Updated preference.",
+        "timestamp": "2026-05-18T17:06:35.986Z"
+      }
+    ],
+    "matchesSent": [
+      {
+        "candidateId": "pool_f020",
+        "sentDate": "2026-05-10T17:06:35.986Z",
+        "outcome": "accepted"
+      },
+      {
+        "candidateId": "pool_f044",
+        "sentDate": "2026-05-18T17:06:35.986Z",
+        "outcome": "rejected"
+      },
+      {
+        "candidateId": "pool_f005",
+        "sentDate": "2026-05-30T17:06:35.986Z",
+        "outcome": "pending"
+      }
+    ]
+  },
+  {
+    "id": "client_f05",
+    "firstName": "Divya",
+    "lastName": "Singh",
+    "gender": "female",
+    "dateOfBirth": "1994-02-07",
+    "email": "divya.singh@gmail.com",
+    "phone": "+919063063382",
+    "maritalStatus": "never_married",
+    "currentCity": "Hyderabad",
+    "currentCountry": "India",
+    "hometown": "Madurai",
+    "isNRI": false,
+    "openToRelocate": "yes",
+    "heightCm": 167,
+    "bloodGroup": "O-",
+    "undergradCollege": "XLRI Jamshedpur",
+    "highestDegree": "CA",
+    "currentCompany": "ISRO",
+    "designation": "Deputy Secretary",
+    "professionCategory": "govt",
+    "annualIncomeLPA": 8,
+    "siblings": 2,
+    "familyType": "nuclear",
+    "fatherOccupation": "Doctor",
+    "motherOccupation": "Bank Employee",
+    "religion": "Hindu",
+    "motherTongue": "Gujarati",
+    "languagesKnown": [
+      "English",
+      "Gujarati",
+      "Hindi"
+    ],
+    "wantKids": "no",
+    "openToPets": false,
+    "diet": "non-veg",
+    "drinking": "socially",
+    "smoking": "never",
+    "personalityTags": [
+      "travel-lover",
+      "introverted",
+      "fitness-enthusiast"
+    ],
+    "partnerAgeMin": 30,
+    "partnerAgeMax": 41,
+    "clientType": "partner_search",
+    "journeyStage": "post_date",
+    "status": "Matched",
+    "notes": [
+      {
+        "text": "Profiling session done. Added gotra and nakshatra details. Family is traditional.",
+        "timestamp": "2026-04-18T17:06:35.986Z"
+      },
+      {
+        "text": "Parents met matchmaker. Open to inter-caste but same religion preferred.",
+        "timestamp": "2026-05-10T17:06:35.986Z"
+      },
+      {
+        "text": "Intro sent to a candidate. Client liked the profile. Waiting for response.",
+        "timestamp": "2026-05-23T17:06:35.986Z"
+      },
+      {
+        "text": "Post-intro feedback — felt good chemistry on call. Wants to meet in person.",
+        "timestamp": "2026-05-30T17:06:35.986Z"
+      }
+    ],
+    "matchesSent": [
+      {
+        "candidateId": "pool_f019",
+        "sentDate": "2026-05-14T17:06:35.986Z",
+        "outcome": "accepted"
+      },
+      {
+        "candidateId": "pool_m022",
+        "sentDate": "2026-05-15T17:06:35.986Z",
+        "outcome": "rejected"
+      },
+      {
+        "candidateId": "pool_m030",
+        "sentDate": "2026-05-31T17:06:35.986Z",
+        "outcome": "no_response"
+      },
+      {
+        "candidateId": "pool_f050",
+        "sentDate": "2026-05-28T17:06:35.986Z",
+        "outcome": "pending"
+      }
+    ]
+  },
+  {
+    "id": "client_f09",
+    "firstName": "Ishita",
+    "lastName": "Pillai",
+    "gender": "female",
+    "dateOfBirth": "1998-07-02",
+    "email": "ishita.pillai@gmail.com",
+    "phone": "+919503219830",
+    "maritalStatus": "never_married",
+    "currentCity": "Bangalore",
+    "currentCountry": "India",
+    "hometown": "Aurangabad",
+    "isNRI": false,
+    "openToRelocate": "yes",
+    "heightCm": 152,
+    "bloodGroup": "A-",
+    "undergradCollege": "FMS Delhi",
+    "highestDegree": "MBA",
+    "currentCompany": "Zerodha",
+    "designation": "Equity Analyst",
+    "professionCategory": "finance",
+    "annualIncomeLPA": 29,
+    "siblings": 2,
+    "familyType": "nuclear",
+    "fatherOccupation": "Doctor",
+    "motherOccupation": "Business Owner",
+    "religion": "Sikh",
+    "caste": "Khatri",
+    "motherTongue": "Bengali",
+    "languagesKnown": [
+      "English",
+      "Bengali",
+      "Hindi"
+    ],
+    "wantKids": "maybe",
+    "openToPets": false,
+    "diet": "veg",
+    "drinking": "socially",
+    "smoking": "occasionally",
+    "personalityTags": [
+      "introverted",
+      "creative",
+      "independent",
+      "reader",
+      "intellectual"
+    ],
+    "partnerAgeMin": 26,
+    "partnerAgeMax": 37,
+    "clientType": "tdc_member",
+    "journeyStage": "post_date",
+    "status": "Matched",
+    "notes": [
+      {
+        "text": "Mentioned family is involved in decision. Parents want same religion and caste match.",
+        "timestamp": "2026-05-13T17:06:35.986Z"
+      },
+      {
+        "text": "Intro sent to a candidate. Client liked the profile. Waiting for response.",
+        "timestamp": "2026-05-23T17:06:35.986Z"
+      },
+      {
+        "text": "Candidate family has concerns about relocation. Client is open to moving.",
+        "timestamp": "2026-06-02T17:06:35.986Z"
+      }
+    ],
+    "matchesSent": [
+      {
+        "candidateId": "pool_f053",
+        "sentDate": "2026-05-20T17:06:35.986Z",
+        "outcome": "rejected"
+      },
+      {
+        "candidateId": "pool_m005",
+        "sentDate": "2026-05-19T17:06:35.986Z",
+        "outcome": "accepted"
+      },
+      {
+        "candidateId": "pool_m015",
+        "sentDate": "2026-06-03T17:06:35.986Z",
+        "outcome": "accepted"
+      }
+    ]
+  },
+  {
+    "id": "client_f12",
+    "firstName": "Riya",
+    "lastName": "Saxena",
+    "gender": "female",
+    "dateOfBirth": "2000-10-08",
+    "email": "riya.saxena@outlook.com",
+    "phone": "+917667552810",
+    "maritalStatus": "never_married",
+    "currentCity": "Gurugram",
+    "currentCountry": "India",
+    "hometown": "Aurangabad",
+    "isNRI": false,
+    "openToRelocate": "yes",
+    "heightCm": 153,
+    "undergradCollege": "NIT Trichy",
+    "highestDegree": "M.Tech",
+    "currentCompany": "Infosys",
+    "designation": "Staff Engineer",
+    "professionCategory": "tech",
+    "annualIncomeLPA": 25,
+    "siblings": 2,
+    "familyType": "nuclear",
+    "motherOccupation": "Teacher",
+    "religion": "Hindu",
+    "caste": "Lingayat",
+    "motherTongue": "Punjabi",
+    "languagesKnown": [
+      "English",
+      "Punjabi",
+      "Telugu"
+    ],
+    "manglikStatus": "non-manglik",
+    "wantKids": "yes",
+    "openToPets": false,
+    "diet": "non-veg",
+    "drinking": "never",
+    "smoking": "occasionally",
+    "personalityTags": [
+      "independent",
+      "organized",
+      "reader",
+      "social",
+      "traditional"
+    ],
+    "partnerAgeMin": 24,
+    "partnerAgeMax": 35,
+    "clientType": "partner_search",
+    "journeyStage": "post_date",
+    "status": "Matched",
+    "notes": [
+      {
+        "text": "Strong preference for non-veg partner. Dealbreaker if strictly vegetarian.",
+        "timestamp": "2026-05-03T17:06:35.986Z"
+      },
+      {
+        "text": "Intro sent to a candidate. Client liked the profile. Waiting for response.",
+        "timestamp": "2026-05-23T17:06:35.986Z"
+      },
+      {
+        "text": "Candidate family has concerns about relocation. Client is open to moving.",
+        "timestamp": "2026-06-02T17:06:35.986Z"
+      }
+    ],
+    "matchesSent": [
+      {
+        "candidateId": "pool_m050",
+        "sentDate": "2026-06-01T17:06:35.987Z",
+        "outcome": "rejected"
+      },
+      {
+        "candidateId": "pool_m048",
+        "sentDate": "2026-05-19T17:06:35.987Z",
+        "outcome": "no_response"
+      },
+      {
+        "candidateId": "pool_f011",
+        "sentDate": "2026-05-31T17:06:35.987Z",
+        "outcome": "no_response"
+      }
+    ]
+  },
+  {
+    "id": "client_m05",
+    "firstName": "Rahul",
+    "lastName": "Bose",
+    "gender": "male",
+    "dateOfBirth": "1986-09-23",
+    "email": "rahul.bose@gmail.com",
+    "phone": "+919107797687",
+    "maritalStatus": "never_married",
+    "currentCity": "Mumbai",
+    "currentCountry": "India",
+    "hometown": "Madurai",
+    "isNRI": false,
+    "openToRelocate": "no",
+    "heightCm": 175,
+    "bloodGroup": "B+",
+    "undergradCollege": "Mumbai University",
+    "highestDegree": "MBA",
+    "currentCompany": "Kotak Mahindra",
+    "designation": "Risk Manager",
+    "professionCategory": "finance",
+    "annualIncomeLPA": 38,
+    "siblings": 1,
+    "familyType": "joint",
+    "fatherOccupation": "Teacher",
+    "motherOccupation": "Bank Employee",
+    "religion": "Hindu",
+    "caste": "Vaishya",
+    "motherTongue": "Tamil",
+    "languagesKnown": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "gotra": "Gautam",
+    "wantKids": "yes",
+    "openToPets": true,
+    "diet": "veg",
+    "drinking": "socially",
+    "smoking": "never",
+    "personalityTags": [
+      "introverted",
+      "travel-lover",
+      "independent",
+      "empathetic",
+      "grounded"
+    ],
+    "partnerAgeMin": 34,
+    "partnerAgeMax": 43,
+    "clientType": "tdc_member",
+    "journeyStage": "paused",
+    "status": "Paused",
+    "notes": [
+      {
+        "text": "Initial call done. Client is serious and ready for matches. Prefers someone from same city or willing to relocate.",
+        "timestamp": "2026-04-08T17:06:35.986Z"
+      },
+      {
+        "text": "Client stressed on education compatibility. Prefers someone with MBA or professional degree.",
+        "timestamp": "2026-05-08T17:06:35.986Z"
+      },
+      {
+        "text": "Post-intro feedback — felt good chemistry on call. Wants to meet in person.",
+        "timestamp": "2026-05-30T17:06:35.986Z"
+      }
+    ],
+    "matchesSent": []
+  },
+  {
+    "id": "client_m07",
+    "firstName": "Nikhil",
+    "lastName": "Singh",
+    "gender": "male",
+    "dateOfBirth": "1990-11-12",
+    "email": "nikhil.singh@outlook.com",
+    "phone": "+918885653301",
+    "maritalStatus": "never_married",
+    "currentCity": "Ahmedabad",
+    "currentCountry": "India",
+    "hometown": "Agra",
+    "isNRI": false,
+    "openToRelocate": "yes",
+    "heightCm": 171,
+    "bloodGroup": "A-",
+    "undergradCollege": "IIT Delhi",
+    "highestDegree": "B.Tech",
+    "currentCompany": "Max Healthcare",
+    "designation": "Medical Officer",
+    "professionCategory": "medicine",
+    "annualIncomeLPA": 45,
+    "siblings": 0,
+    "familyType": "joint",
+    "fatherOccupation": "Banker",
+    "motherOccupation": "Government Employee",
+    "religion": "Muslim",
+    "caste": "Ansari",
+    "motherTongue": "Tamil",
+    "languagesKnown": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "wantKids": "yes",
+    "openToPets": false,
+    "diet": "non-veg",
+    "drinking": "never",
+    "smoking": "never",
+    "personalityTags": [
+      "social",
+      "travel-lover",
+      "career-focused",
+      "independent",
+      "traditional"
+    ],
+    "partnerAgeMin": 30,
+    "partnerAgeMax": 39,
+    "clientType": "partner_search",
+    "journeyStage": "paused",
+    "status": "Paused",
+    "notes": [
+      {
+        "text": "Client called — interested in Delhi-based matches only now. Updated preference.",
+        "timestamp": "2026-05-18T17:06:35.986Z"
+      },
+      {
+        "text": "Intro sent to a candidate. Client liked the profile. Waiting for response.",
+        "timestamp": "2026-05-23T17:06:35.986Z"
+      },
+      {
+        "text": "Client paused search temporarily — work pressure. Will resume next month.",
+        "timestamp": "2026-06-04T17:06:35.986Z"
+      }
+    ],
+    "matchesSent": []
+  },
+  {
+    "id": "client_m08",
+    "firstName": "Siddharth",
+    "lastName": "Kapoor",
+    "gender": "male",
+    "dateOfBirth": "1991-10-16",
+    "email": "siddharth.kapoor@outlook.com",
+    "phone": "+918541825179",
+    "maritalStatus": "never_married",
+    "currentCity": "Ahmedabad",
+    "currentCountry": "India",
+    "hometown": "Aurangabad",
+    "isNRI": false,
+    "openToRelocate": "yes",
+    "heightCm": 184,
+    "bloodGroup": "A+",
+    "undergradCollege": "Symbiosis Institute",
+    "highestDegree": "B.Tech",
+    "currentCompany": "Flipkart",
+    "designation": "Tech Lead",
+    "professionCategory": "tech",
+    "annualIncomeLPA": 25,
+    "siblings": 1,
+    "familyType": "joint",
+    "fatherOccupation": "Retired Government Officer",
+    "motherOccupation": "Professor",
+    "religion": "Sikh",
+    "motherTongue": "Marathi",
+    "languagesKnown": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "wantKids": "yes",
+    "openToPets": true,
+    "diet": "non-veg",
+    "drinking": "socially",
+    "smoking": "never",
+    "personalityTags": [
+      "empathetic",
+      "fitness-enthusiast",
+      "reader",
+      "open-minded",
+      "ambitious"
+    ],
+    "partnerAgeMin": 29,
+    "partnerAgeMax": 38,
+    "clientType": "partner_search",
+    "journeyStage": "paused",
+    "status": "Paused",
+    "notes": [
+      {
+        "text": "Strong preference for non-veg partner. Dealbreaker if strictly vegetarian.",
+        "timestamp": "2026-05-03T17:06:35.986Z"
+      },
+      {
+        "text": "Client paused search temporarily — work pressure. Will resume next month.",
+        "timestamp": "2026-06-04T17:06:35.986Z"
+      }
+    ],
+    "matchesSent": []
+  },
+  {
+    "id": "client_m13",
+    "firstName": "Kartik",
+    "lastName": "Iyer",
+    "gender": "male",
+    "dateOfBirth": "1990-03-19",
+    "email": "kartik.iyer@gmail.com",
+    "phone": "+918682287141",
+    "maritalStatus": "never_married",
+    "currentCity": "Indore",
+    "currentCountry": "India",
+    "isNRI": false,
+    "openToRelocate": "no",
+    "heightCm": 166,
+    "bloodGroup": "A-",
+    "undergradCollege": "Symbiosis Institute",
+    "highestDegree": "MBA",
+    "currentCompany": "Swiggy",
+    "designation": "Senior Software Engineer",
+    "professionCategory": "tech",
+    "annualIncomeLPA": 40,
+    "siblings": 0,
+    "familyType": "joint",
+    "fatherOccupation": "Business Owner",
+    "motherOccupation": "Government Employee",
+    "religion": "Muslim",
+    "caste": "Sheikh",
+    "motherTongue": "Gujarati",
+    "languagesKnown": [
+      "English",
+      "Gujarati",
+      "Hindi"
+    ],
+    "wantKids": "yes",
+    "openToPets": true,
+    "diet": "non-veg",
+    "drinking": "socially",
+    "smoking": "never",
+    "personalityTags": [
+      "creative",
+      "intellectual",
+      "fitness-enthusiast",
+      "organized"
+    ],
+    "partnerAgeMin": 30,
+    "partnerAgeMax": 39,
+    "clientType": "partner_search",
+    "journeyStage": "paused",
+    "status": "Paused",
+    "notes": [
+      {
+        "text": "Initial call done. Client is serious and ready for matches. Prefers someone from same city or willing to relocate.",
+        "timestamp": "2026-04-08T17:06:35.986Z"
+      },
+      {
+        "text": "Mentioned family is involved in decision. Parents want same religion and caste match.",
+        "timestamp": "2026-05-13T17:06:35.986Z"
+      },
+      {
+        "text": "Intro sent to a candidate. Client liked the profile. Waiting for response.",
+        "timestamp": "2026-05-23T17:06:35.986Z"
+      },
+      {
+        "text": "Client paused search temporarily — work pressure. Will resume next month.",
+        "timestamp": "2026-06-04T17:06:35.986Z"
+      }
+    ],
+    "matchesSent": []
+  },
+  {
+    "id": "client_f02",
+    "firstName": "Ananya",
+    "lastName": "Shah",
+    "gender": "female",
+    "dateOfBirth": "1998-11-03",
+    "email": "ananya.shah@gmail.com",
+    "phone": "+918600531584",
+    "maritalStatus": "never_married",
+    "currentCity": "Lucknow",
+    "currentCountry": "India",
+    "hometown": "Aurangabad",
+    "isNRI": false,
+    "openToRelocate": "maybe",
+    "heightCm": 165,
+    "undergradCollege": "BITS Pilani",
+    "highestDegree": "MBBS",
+    "currentCompany": "AZB & Partners",
+    "designation": "Corporate Lawyer",
+    "professionCategory": "law",
+    "annualIncomeLPA": 28,
+    "siblings": 1,
+    "familyType": "nuclear",
+    "fatherOccupation": "Lawyer",
+    "motherOccupation": "Professor",
+    "religion": "Hindu",
+    "motherTongue": "Marathi",
+    "languagesKnown": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "manglikStatus": "non-manglik",
+    "nakshatra": "Revati",
+    "wantKids": "yes",
+    "openToPets": true,
+    "diet": "non-veg",
+    "drinking": "never",
+    "smoking": "never",
+    "personalityTags": [
+      "spiritual",
+      "grounded",
+      "social",
+      "empathetic"
+    ],
+    "partnerAgeMin": 26,
+    "partnerAgeMax": 37,
+    "clientType": "partner_search",
+    "journeyStage": "paused",
+    "status": "Active",
+    "notes": [
+      {
+        "text": "Initial call done. Client is serious and ready for matches. Prefers someone from same city or willing to relocate.",
+        "timestamp": "2026-04-08T17:06:35.986Z"
+      },
+      {
+        "text": "Mentioned family is involved in decision. Parents want same religion and caste match.",
+        "timestamp": "2026-05-13T17:06:35.986Z"
+      },
+      {
+        "text": "Client called — interested in Delhi-based matches only now. Updated preference.",
+        "timestamp": "2026-05-18T17:06:35.986Z"
+      }
+    ],
+    "matchesSent": []
+  }
+]

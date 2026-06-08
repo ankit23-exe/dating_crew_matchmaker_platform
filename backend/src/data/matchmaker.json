@@ -1,0 +1,35 @@
+[
+	{
+		"id": "mm_001",
+		"name": "Priya Kapoor",
+		"email": "matchmaker@thedatecrew.com",
+		"passwordHash": "$2b$10$76nYvYPr/QIJOdg//Y4mgulKKL/TGxabVlEMAfgwZ5ff4u4y9vGw2",
+		"assignedClientIds": [
+			"client_m01",
+			"client_m06",
+			"client_m09",
+			"client_m12",
+			"client_f01",
+			"client_f04",
+			"client_f08",
+			"client_f10",
+			"client_f11",
+			"client_m02",
+			"client_m03",
+			"client_m11",
+			"client_f03",
+			"client_f06",
+			"client_f07",
+			"client_m04",
+			"client_m10",
+			"client_f05",
+			"client_f09",
+			"client_f12",
+			"client_m05",
+			"client_m07",
+			"client_m08",
+			"client_m13",
+			"client_f02"
+		]
+	}
+]
