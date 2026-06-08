@@ -1,8 +1,9 @@
 import axios from 'axios';
 import { clearToken } from './auth';
 
+// Same-origin /api proxy sets auth cookie on the frontend domain (middleware can read it).
 const api = axios.create({
-  baseURL: process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5001/api',
+  baseURL: process.env.NEXT_PUBLIC_API_URL || '/api',
   headers: { 'Content-Type': 'application/json' },
   withCredentials: true,
 });

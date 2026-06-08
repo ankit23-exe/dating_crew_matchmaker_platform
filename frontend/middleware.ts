@@ -2,12 +2,12 @@ import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 
 export function middleware(request: NextRequest) {
-
   const token = request.cookies.get('tdc_matchmaker_token')?.value;
+  const pathname = request.nextUrl.pathname;
 
-  console.log("MIDDLEWARE TOKEN:", token);
+  console.log('PATH:', pathname, 'TOKEN:', token ? 'present' : 'undefined');
 
-  const isLoginPage = request.nextUrl.pathname === '/login';
+  const isLoginPage = pathname === '/login';
 
   if (!token && !isLoginPage) {
     return NextResponse.redirect(new URL('/login', request.url));

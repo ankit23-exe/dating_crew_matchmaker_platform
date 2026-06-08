@@ -1,11 +1,9 @@
 'use client';
 
 import { useState } from 'react';
-import { useRouter } from 'next/navigation';
 import api from '@/lib/api';
 
 export default function LoginForm() {
-  const router = useRouter();
   const [email, setEmail] = useState('matchmaker@thedatecrew.com');
   const [password, setPassword] = useState('tdc2024');
   const [loading, setLoading] = useState(false);
@@ -26,8 +24,8 @@ export default function LoginForm() {
         email: email.trim(),
         password,
       });
-      router.push('/dashboard');
-      router.refresh();
+      // Full navigation so middleware sees the new httpOnly cookie immediately.
+      window.location.href = '/dashboard';
     } catch (err: unknown) {
       if (
         typeof err === 'object' &&

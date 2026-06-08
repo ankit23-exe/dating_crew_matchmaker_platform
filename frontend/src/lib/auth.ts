@@ -21,8 +21,8 @@ export const clearToken = (): void => {
     return;
   }
 
-  document.cookie = `${TOKEN_KEY}=; path=/; max-age=0`;
-  document.cookie = `tdc_token=; path=/; max-age=0`;
+  // httpOnly cookie is cleared via /api/auth/logout proxy route.
+  void fetch('/api/auth/logout', { method: 'POST', credentials: 'include' });
 };
 
 export const isLoggedIn = (): boolean => !!getToken();
